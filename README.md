@@ -9,3 +9,5 @@ Dodany system punktów dający po jednym punkcie za trafienie asteroidy
 Dodana nowa asteroida rozpadająca się na mniejsze asteroidy po trafieniu
 
 Dodana ostateczna broń w postaci muki po przytrzymaniu przycisku n przez 5 sekund i czasie przylotu niszczy plansze
+
+Filmy przedstawiające dodane funkcje znajdują się w folderze Filmy
